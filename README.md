@@ -68,8 +68,7 @@ Eye-Disease-Detection/
 ├── README.md
 └── .gitignore
 
-
-▶️ How to Run the Application
+## ▶️ How to Run the Application
 
 ▶️ How to Run the Application
    
